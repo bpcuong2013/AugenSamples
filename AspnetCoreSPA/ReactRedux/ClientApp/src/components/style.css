@@ -1,0 +1,13 @@
+﻿.content {min-width:480px;}
+.content .container {padding-bottom:20px;}
+.content .header {text-align: center;display: table;margin-bottom: 10px;padding-top: 0px;padding-bottom: 10px;width: 100%;background: #444E52;color:#FFF}
+.content .header h3 {text-align: center;padding-top: 10px;margin-top: 10px;}
+
+.content .centerContainer {width: 100%;text-align: center}
+.content .centerContainer .centerInner {width:500px;text-align: center;margin:auto}
+.content .centerContainer .centerInner .searchControl {width:100%;height:38px;margin: auto;display: table;margin-bottom: 15px;margin-top: 15px;}
+.content .centerContainer .centerInner ul {display: table;margin: auto;}
+
+@media screen and (max-width: 450px) {  
+    .content .centerContainer .centerInner {width:100%;}
+}
