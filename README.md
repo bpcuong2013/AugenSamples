@@ -1,7 +1,8 @@
 # ReactRedux with dotnetcore Template
 
 ## My project
-- My project was located under the `AspnetCoreSPA_Testing` folder. I don't put it into your folder `AspnetCoreSPA` because my computer is installed dotnetcore 3.0. I met some issues so I created new reactredux template from beginning.
+- My project was located under the `AspnetCoreSPA` folder.
+
 - Folder structure:
 
     +actions => I used reduxsauce, It is a tool for custom redux actions. 
